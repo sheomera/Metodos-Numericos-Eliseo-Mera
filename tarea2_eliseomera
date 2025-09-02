@@ -1,0 +1,9 @@
+Tarea 2.6
+Discuta la estabilidad de los problemas presentados en las tareas 2.3 y 2.4.
+
+Para la tarea 2.3 no me queda muy claro, puede ser que si no se usa la aproximación numérica y se suman la integrales, queda una resta de términos
+(ya que I_2 tiene el mismo término que I_1 pero en negativo)que causa problemas de estabilidad.
+También puede tener problemas evaluando en cero. Pero más allá de eso, no me queda muy claro.
+
+Para la tarea 2.4 el problema de estabilidad que tiene es la aproximación en las sumas, ya que la no tener tantos decimales de presición, cada número es un valor muy aproximado del valor real.
+Al aproximar varios números, el resultado se aleja cada vez más del valor real.
