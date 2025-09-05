@@ -25,7 +25,6 @@ predicciones = np.array([poisson(n, media)*sum(datos_array[:,1]) for n in range(
 
 plt.bar(range(len(predicciones)), predicciones)
 plt.title("Distribución de Probabilidad")
-plt.legend()
 plt.show()
 
 print(media)
