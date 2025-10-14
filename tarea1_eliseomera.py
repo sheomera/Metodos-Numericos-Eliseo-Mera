@@ -1,3 +1,5 @@
+#%%
+
 import numpy as np
 import matplotlib.pyplot as plt
 import math
@@ -26,3 +28,6 @@ plt.legend()
 plt.title("Aproximación de xsin(x) con serie de Taylor")
 plt.grid(True)
 plt.show()
+
+# %%
+# Nota: 7.0
