@@ -7,3 +7,5 @@ También puede tener problemas evaluando en cero. Pero más allá de eso, no me 
 
 Para la tarea 2.4 el problema de estabilidad que tiene es la aproximación en las sumas, ya que la no tener tantos decimales de presición, cada número es un valor muy aproximado del valor real.
 Al aproximar varios números, el resultado se aleja cada vez más del valor real.
+
+NOTA: 6.0
