@@ -19,3 +19,9 @@ plt.plot(trapecio_array[:,1], error)
 plt.xlabel('h')
 plt.ylabel('error')
 plt.show()
+
+# Nota 5.0
+# Faltó comparar con el método de Simpson
+# Se pedía comparar con la solución exacta. 
+# En cambio se comparó con una aproximación
+# numérica obtenida con scipy.
